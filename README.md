@@ -4,7 +4,7 @@ Final project for the Building AI course
 
 ## Summary
 
-I would like to develop an app that solves challenges faced by people in or about to enter the world of work. It should be simple and clear “like an Apple store only digital”. It would be possible for users to upload their CV, the AI screens this CV and finds tailor-made jobs for the person, if a key qualification is missing, further training offers are searched for, found and suggested to the person. It would also be possible for a network of users and recruiters to be created and matched with the help of a high level of scoring or similar “similar to a dating app :)” It should be an all-in-one solution for job seekers and recruiters.
+I would like to develop an app that solves challenges faced by people in or about to enter the world of work. It should be simple and clear “like an Apple store only digital”. It would be possible for users to upload their CV, the AI screens this CV and finds tailor-made jobs for the person, if a key qualification is missing, further training offers are searched for, found and suggested to the person. It would also be possible for a network of users and recruiters to be created and matched with the help of a high level of scoring or similar “similar to a dating app :)” It should be an all-in-one solution for job seekers and recruiters. In addition, a social network should be created in which users can freely express their interest in jobs, and recruiters or business managers can initiate the publication of a post or application. It could be decentralised, but then you would have to make sure that enough potential users become aware of the website. It should be the best network that has ever existed.
 
 
 ## Background
@@ -25,8 +25,8 @@ The aim is to create a state-of-the-art, simple solution for job seekers, people
 
 ## How is it used?
 
-It should be an app but there should also be a website. It would be conceivable for users to log in using their LinkedIn account or via Google or Apple. Registration should be as simple as possible and users should decide for themselves which data they want to provide and which not. AI-based CV screening is used to make suggestions and create a scoring system: For example: Creativity 7/10; Communication 9/10; Working with customers 4/10; Social interest 7/10; Scientific 8/10....and then a scoring or similar is determined, this is compared with vacancies and matches are generated. 
-You could offer it for free or for a fee (e.g. recruiter is looking for a suitable candidate, if he wants to see the profile, he or she needs a premium account)
+It should be an app but there should also be a website. It would be conceivable for users to log in using their LinkedIn account or via Google or Apple. Registration should be as simple as possible and users should decide for themselves which data they want to provide and which not. The heart of the app and the website should be an AI solution that generates and produces the perfect match value - transparently and comprehensibly! It should not work with tracking or cookies, it must be much more modern, social and civilised. AI-based CV screening is used to make suggestions and create a scoring system: For example: Creativity 7/10; Communication 9/10; Working with customers 4/10; Social interest 7/10; Scientific 8/10....and then a scoring or similar is determined, this is compared with vacancies and matches are generated. 
+You could offer it for free or for a fee (e.g. recruiter is looking for a suitable candidate, if he wants to see the profile, he or she needs a premium account). The score should be made up of at least 25 parameters, which should enable excellent profiling. It is essential that people also state their private interests and hobbies in order to achieve an effective match.
 
 
 ## Data sources and AI methods
