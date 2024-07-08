@@ -25,13 +25,14 @@ The aim is to create a state-of-the-art, simple solution for job seekers, people
 
 ## How is it used?
 
-It should be an app but there should also be a website. It would be conceivable for users to log in using their LinkedIn account or via Google or Apple. Registration should be as simple as possible and users should decide for themselves which data they want to provide and which not. The heart of the app and the website should be an AI solution that generates and produces the perfect match value - transparently and comprehensibly! It should not work with tracking or cookies, it must be much more modern, social and civilised. AI-based CV screening is used to make suggestions and create a scoring system: For example: Creativity 7/10; Communication 9/10; Working with customers 4/10; Social interest 7/10; Scientific 8/10....and then a scoring or similar is determined, this is compared with vacancies and matches are generated. 
+The aim is to create a website/app where recruiters, job seekers and people interested in lifelong learning can meet. Should be a civilised network where everyone can be who they are and where each individual is treated individually. annoying pushy messages or sales requests are unwanted.
+It should be an app but there should also be a website. A paid version should only be available for companies and their recruiting department, for users the service and interaction is free of charge. It would be conceivable for users to log in using their LinkedIn account or via Google or Apple. Registration should be as simple as possible and users should decide for themselves which data they want to provide and which not. The heart of the app and the website should be an AI solution that generates and produces the perfect match value - transparently and comprehensibly! It should not work with tracking or cookies, it must be much more modern, social and civilised. AI-based CV screening is used to make suggestions and create a scoring system: For example: Creativity 7/10; Communication 9/10; Working with customers 4/10; Social interest 7/10; Scientific 8/10....and then a scoring or similar is determined, this is compared with vacancies and matches are generated. 
 You could offer it for free or for a fee (e.g. recruiter is looking for a suitable candidate, if he wants to see the profile, he or she needs a premium account). The score should be made up of at least 25 parameters, which should enable excellent profiling. It is essential that people also state their private interests and hobbies in order to achieve an effective match.
 
 
 ## Data sources and AI methods
 
-Ideally, the data is obtained from the CV, as this document contains a great deal of information. The AI should therefore be able to recognize and evaluate the text, separate personal data from job data and hobbies etc. and segment them. Further data could be generated via the log-in with Linked-In or similar. As far as the coding implementation, i.e. the heart of my idea, is concerned, there is still a question mark on my part (unfortunately :(). However, I am sure that it can be implemented and will be great. The AI ​​should also work in such a way that open vacancies are identified for the right job seeker
+Ideally, the data is obtained from the CV, as this document contains a great deal of information. The AI should therefore be able to recognize and evaluate the text, separate personal data from job data and hobbies etc. and segment them. Further data could be generated via the log-in with Linked-In or similar. As far as the coding implementation, i.e. the heart of my idea, is concerned, there is still a question mark on my part (unfortunately :(). However, I am sure that it can be implemented and will be great. The AI ​​should also work in such a way that open vacancies are identified for the right job seeker. The AI should be transparent and visualise how a match is made and, above all, why. The CV is uploaded and scanned immediately, the AI tells you what information is missing (if any), if information is missing, you could also consider having the AI create a new CV, missing information can then be added by the user. The AI should be able to research all relevant job platforms and training opportunities in order to present the user with the result they need.
 
 ## Challenges
 
@@ -46,3 +47,8 @@ Exponential growth through the best solution ever. The solution should be unriva
 ## Acknowledgments
 
 The idea is mine alone, but I would like to share it with others. I am dependent on you and your input for the development, it should be a solution from some for 
+
+<img width="645" alt="Bildschirmfoto 2024-07-09 um 00 05 30" src="https://github.com/Unknown-User-Berlin/Panacea-Lab/assets/171382947/8710b22e-83e2-4921-960c-82f1294ab93f">
+
+<img width="642" alt="Bildschirmfoto 2024-07-09 um 00 06 06" src="https://github.com/Unknown-User-Berlin/Panacea-Lab/assets/171382947/c5e2177b-06c4-4b84-8fda-13841a1eaedf">
+
